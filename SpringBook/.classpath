@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-12">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/student/Downloads/mysql-connector-java-8.0.19/mysql-connector-java-8.0.19/mysql-connector-java-8.0.19.jar"/>
-	<classpathentry kind="lib" path="C:/Users/student/Desktop/git/SpringStudy/SpringBook/LibList/lib/com.springsource.net.sf.cglib-2.2.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/student/Desktop/git/SpringStudy/SpringBook/LibList/lib/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/student/Desktop/git/SpringStudy/SpringBook/LibList/lib/org.springframework.asm-3.0.7.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/student/Desktop/git/SpringStudy/SpringBook/LibList/lib/org.springframework.beans-3.0.7.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/student/Desktop/git/SpringStudy/SpringBook/LibList/lib/org.springframework.context-3.0.7.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/student/Desktop/git/SpringStudy/SpringBook/LibList/lib/org.springframework.core-3.0.7.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/student/Desktop/git/SpringStudy/SpringBook/LibList/lib/org.springframework.expression-3.0.7.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/student/Desktop/git/SpringStudy/SpringBook/LibList/lib/org.springframework.jdbc-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kihey/Downloads/mysql-connector-java-8.0.19/mysql-connector-java-8.0.19/mysql-connector-java-8.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kihey/Desktop/eclipse1/SpringBook/lib/com.springsource.net.sf.cglib-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kihey/Desktop/eclipse1/SpringBook/lib/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kihey/Desktop/eclipse1/SpringBook/lib/org.springframework.asm-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kihey/Desktop/eclipse1/SpringBook/lib/org.springframework.beans-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kihey/Desktop/eclipse1/SpringBook/lib/org.springframework.context-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kihey/Desktop/eclipse1/SpringBook/lib/org.springframework.core-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kihey/Desktop/eclipse1/SpringBook/lib/org.springframework.expression-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kihey/Downloads/toby/Vol1-30/Lib/lib/org.springframework.jdbc-3.0.7.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/kihey/Downloads/toby/Vol1-30/Lib/lib/org.springframework.test-3.0.7.RELEASE.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
